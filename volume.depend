@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1606628038 source:c:\users\dell\desktop\x-files\c\volume\cs50.c
+	<ctype.h>
+	<errno.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1606628038 c:\users\dell\desktop\x-files\c\volume\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
+1649197159 source:c:\users\dell\desktop\x-files\c\volume\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
